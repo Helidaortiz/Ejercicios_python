@@ -1,4 +1,4 @@
-año=int(input("digire el año:  "))
+año=int(input("digite el año:  "))
 if año%400==0:
     print("el año es bisiesto")
 else:
