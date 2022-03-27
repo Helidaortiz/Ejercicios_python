@@ -8,4 +8,4 @@ if num>1:
     if cont==0:                
         print(f" {num} es primo")
     else:
-        print(f"no es primo {num}",)
+        print(f" no es primo {num}",)

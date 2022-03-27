@@ -1,4 +1,4 @@
-n=int(input("Digite el Numero entero: "))
+n=int(input("Digite el Numero entero:  "))
 x=1
 acumulador=1
 for i in range(1,n+1):
