@@ -1,4 +1,4 @@
-num=int(input("ingrese numero: "))
+num=int(input("ingrese el numero: "))
 if num>1:
     cont=0
     for i in range(2,num):
@@ -8,4 +8,4 @@ if num>1:
     if cont==0:                
         print(f" {num} es primo")
     else:
-        print(f"no es primo {num}", )
+        print(f"no es primo {num}",)
