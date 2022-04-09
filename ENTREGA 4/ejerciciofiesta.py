@@ -5,7 +5,7 @@ acu_h=0
 acu_m=0
 e_min=0
 if ingreso=="si" or ingreso=="si" or ingreso=="si" :
-    while ingreso=="si" or ingreso=="si" or ingreso=="si" :
+    while ingreso=="si " or ingreso=="si" or ingreso=="si" :
         print("\nNuevo usuario")
         edad=int(input("que edad tiene :"))
         t_h_m=ch+cm

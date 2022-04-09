@@ -1,5 +1,5 @@
 alfabeto=('ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz')
-texto=str(input("digite la Palabra:"))
+texto=str(input("digite la Palabra: "))
 contar=0
 
 for i in texto:

@@ -1,4 +1,4 @@
-str1="abc"
+str1="abc "
 str2="123"
 
 for char1 in str1:
